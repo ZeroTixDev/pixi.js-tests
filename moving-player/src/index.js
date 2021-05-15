@@ -6,7 +6,7 @@ const app = new PIXI.Application({
     view: document.getElementById('canvas'),
     antialias: true,
     resolution: window.devicePixelRatio,
-    backgroundColor: 0x000000,
+    backgroundColor: rgb(255, 255, 255),
     autoDensity: true,
 });
 
