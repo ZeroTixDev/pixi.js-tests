@@ -1,1 +1,1 @@
-# Nothing interesting, just a few tests with PIXIjs (also learning vim)
+# Nothing interesting, just a few tests with PIXI.js (also learning vim)
